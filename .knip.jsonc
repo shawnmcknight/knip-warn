@@ -1,0 +1,12 @@
+{
+  "$schema": "https://unpkg.com/knip@5/schema-jsonc.json",
+  "rules": {
+    "files": "warn",
+    "dependencies": "warn",
+    "unlisted": "warn",
+    "unresolved": "warn",
+    "exports": "warn",
+    "types": "warn",
+    "enumMembers": "off"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "knip-warn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "knip": "knip"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "@types/node": "^20.14.9",
+    "knip": "^5.24.0",
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
